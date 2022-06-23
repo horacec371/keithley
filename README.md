@@ -1,4 +1,4 @@
-# Keithley Instruments [![Keithley](https://tektronix.github.io/media/Keithley-opensource_badge.svg)](https://github.com/tektronix)
+# Keithley Instruments, [Link](https://github.com/tektronix)
 
 Revised the original repository by Horace Chen, 2022.06.23
 
